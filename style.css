@@ -14,7 +14,7 @@ font-family: 'Roboto', sans-serif;
 .Home-page-setup{
     text-align: center;
     padding-top: 150px;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
     
 }
 .Home-page-setup h1{
@@ -24,7 +24,7 @@ font-family: 'Roboto', sans-serif;
     color: azure;
 }
 .Home-page-setup p{
-    color: aquamarine;
+    color: rgb(214, 243, 233);
     font-weight: 200;
     padding-bottom: 20px;
 }
@@ -32,6 +32,58 @@ font-family: 'Roboto', sans-serif;
     text-decoration: none;
     padding: 10px 10px;
     color: azure;
-    background-color: brown;
-    border-radius: 1rem;
+    background-color: rgb(253, 46, 4);
+    border-radius:  10px;
 }
+                    /* <!-- <Home page eds>   --> */
+  /* donate today section start*/
+
+.donate-today-section{
+ text-align: center;
+ padding-top: 100px;
+}
+
+.donate-today-titel{
+    font-size: xxx-large;
+    font-family: sans-serif;
+}
+
+.donate-money-selation{
+    display: flex;
+    text-align: center;
+    padding-left: 450px;
+}
+.donate-money-selation div{
+    padding-left: 30px;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: rgb(90, 83, 83);
+
+}
+#donate500{
+    border: 2px solid rgba(249, 50, 0, 0.806);
+    padding: 15px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.hr.solid {
+    border-top: 4px solid #bbb;
+    
+    
+  }
+  .other-amount-rupees{
+    color: rgb(88, 83, 83);
+    font-weight: 100;
+    
+  }
+
+  .doate-now-2nd-section{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: azure;
+    background-color: rgb(253, 46, 4);
+    border-radius:  10px;
+    
+
+
+  }
